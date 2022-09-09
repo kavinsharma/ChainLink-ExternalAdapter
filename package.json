@@ -11,9 +11,7 @@
   },
   "dependencies": {
     "@chainlink/external-adapter": "^0.2.3",
-    "dotenv": "^16.0.2"
-  },
-  "devDependencies": {
+    "dotenv": "^16.0.2",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "eslint": "^7.0.0",
